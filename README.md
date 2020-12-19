@@ -12,9 +12,9 @@ MorphoHub has the following components:
     - Converting 2D image sequences into the 3D hierarchical TeraFly-compatible format.
 3. L0Generator:
     - Generation of L0 data based on neuron reconstruction.
-4. DendriteGeneration:
+4. DendriteGenerator:
     - Parallel generation of dendrites.
-5. BoutonGeneration:(L3 data)
+5. BoutonGenerator:(L3 data)
     - Mass generation of synaptic boutons.
 
 

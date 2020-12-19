@@ -4,7 +4,7 @@ Email: allencenter@seu.edu.cn
 
 #This script (Level-0_generation/main.sh) will generate Level-0 data from a list of swc files
 #Workflow:
-    #1. compile the Vaa3d plugin (getlevel0data.pro) in <Level-0_generation/src>
+    #1. compile the Vaa3d plugin (getlevel0data.pro) in <L0Generator/src>
     #2. put all the swc files in one folder
     #3. resample swc to speed up the generation
     #4. generate Level-0 data
