@@ -14,5 +14,5 @@ MorphoHub has the following components:
     - Parallel generation of dendrites.
 4. BoutonGenerator:(L3 data)
     - Mass generation of synaptic boutons.
-
+You can get our released multi-morphometry data of single neurons at https://github.com/SD-Jiang/MorphoHub/releases/tag/v1.0
 
