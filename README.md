@@ -4,7 +4,7 @@ Email: allencenter@seu.edu.cn
 
 MorphoHub has the following components:
 1. MorphoHub_DBMS:
-    - Multi-level (L1 and L2) data generation and workflow management.
+    - Multi-level data generation and workflow management.
     - Version control of morphometry data.
     - Screen wall-based data visualization and monitoring.
     - User management.
