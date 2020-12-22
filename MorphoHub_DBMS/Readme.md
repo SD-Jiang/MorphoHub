@@ -2,8 +2,7 @@ MorphoHub_DBMS
 ===
 This is a plugin designed for morphological data management, visualization-based analysis, user management and level control.
 ---
->*MorphoHub: Petabyte-Scale Multi-Morphometry of Single Neurons for Whole Brains  
-Designed by Shengdian Jiang, 2018-12-12  
+>*Designed by Shengdian Jiang, 2018-12-12  
 Email: allencenter@seu.edu.cn*
 ***
 

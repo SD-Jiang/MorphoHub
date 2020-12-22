@@ -2,8 +2,7 @@ BoutonGenerator
 ===
 This script will generate Level-3 bouton data from a list of swc files
 ---
->*MorphoHub: Petabyte-Scale Multi-Morphometry of Single Neurons for Whole Brains  
-Designed by Shengdian Jiang, 2020-09-01  
+>*Designed by Shengdian Jiang, 2020-09-01  
 Email: allencenter@seu.edu.cn*
 ***
 

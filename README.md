@@ -1,8 +1,10 @@
-# MorphoHub <Petabyte-Scale Multi-Morphometry of Single Neurons for Whole Brains>
-Designed by Shengdian Jiang, 2020-02-12
-Email: allencenter@seu.edu.cn
+MorphoHub <Petabyte-Scale Multi-Morphometry of Single Neurons for Whole Brains>
+===
+---
+>*Designed by Shengdian Jiang, 2020-02-12
+Email: allencenter@seu.edu.cn*
 
-MorphoHub has the following components:
+## MorphoHub has the following components:
 1. MorphoHub_DBMS:
     - Multi-level data generation and workflow management.
     - Version control of morphometry data.
@@ -15,5 +17,6 @@ MorphoHub has the following components:
 4. BoutonGenerator:(L3 data)
     - Mass generation of synaptic boutons.
 
-You can get our released multi-morphometry data of single neurons at https://github.com/SD-Jiang/MorphoHub/releases/tag/v1.0
+Get our released multi-morphometry data of single neurons at [Release][1].
 
+[1]: https://github.com/SD-Jiang/MorphoHub/releases/tag/v1.0 "Release"

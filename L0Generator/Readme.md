@@ -2,8 +2,7 @@ L0Generator
 ===
 This script (L0Generator/main.sh) will will generate Level-0 data from a list of swc files
 ---
->*MorphoHub: Petabyte-Scale Multi-Morphometry of Single Neurons for Whole Brains  
-Designed by Shengdian Jiang, 2019-06-02  
+>*Designed by Shengdian Jiang, 2019-06-02  
 Email: allencenter@seu.edu.cn*
 ***
 

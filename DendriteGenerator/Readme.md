@@ -2,8 +2,7 @@ DendriteGenerator
 ===
 This script will generate dendrite data from a list of image blocks
 ---
->*MorphoHub: Petabyte-Scale Multi-Morphometry of Single Neurons for Whole Brains  
-Designed by Shengdian Jiang, 2020-08-01  
+>*Designed by Shengdian Jiang, 2020-08-01  
 Email: allencenter@seu.edu.cn*
 ***
 
