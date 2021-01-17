@@ -17,6 +17,7 @@ Email: allencenter@seu.edu.cn*
 4. BoutonGenerator:(L3 data)
     - Mass generation of synaptic boutons.
 
-Get our released multi-morphometry data of single neurons at [Release][1].
-
-[1]: https://github.com/SD-Jiang/MorphoHub/releases/tag/v1.0 "Release"
+Get our released multi-morphometry data of single neurons at [Release][1].  
+Get our paper at [bioRxiv][2].  
+[1]: https://github.com/SD-Jiang/MorphoHub/releases/tag/v1.0 "Release"  
+[2]: https://www.biorxiv.org/content/10.1101/2021.01.09.426010v1 "bioRxiv"
