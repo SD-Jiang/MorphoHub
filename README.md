@@ -18,7 +18,7 @@ Email: allencenter@seu.edu.cn*
     - Mass generation of synaptic boutons.
 
 Get our released multi-morphometry data of single neurons at [Release][1].  
-Get our paper at [bioRxiv][2].  
+Get our paper at [Neuroinformatics][2].  
 
 [1]: https://github.com/SD-Jiang/MorphoHub/releases/tag/v1.0 "Release"  
-[2]: https://www.biorxiv.org/content/10.1101/2021.01.09.426010v1 "bioRxiv"
+[2]: https://link.springer.com/article/10.1007/s12021-022-09569-4 "Neuroinformatics"
